@@ -1,0 +1,15 @@
+G:\MyjetVrainRelay\LightHouseServer2\bin\Debug\net7.0\LightHouseServer2.exe
+G:\MyjetVrainRelay\LightHouseServer2\bin\Debug\net7.0\LightHouseServer2.deps.json
+G:\MyjetVrainRelay\LightHouseServer2\bin\Debug\net7.0\LightHouseServer2.runtimeconfig.json
+G:\MyjetVrainRelay\LightHouseServer2\bin\Debug\net7.0\LightHouseServer2.dll
+G:\MyjetVrainRelay\LightHouseServer2\bin\Debug\net7.0\LightHouseServer2.pdb
+G:\MyjetVrainRelay\LightHouseServer2\obj\Debug\net7.0\LightHouseServer2.csproj.AssemblyReference.cache
+G:\MyjetVrainRelay\LightHouseServer2\obj\Debug\net7.0\LightHouseServer2.GeneratedMSBuildEditorConfig.editorconfig
+G:\MyjetVrainRelay\LightHouseServer2\obj\Debug\net7.0\LightHouseServer2.AssemblyInfoInputs.cache
+G:\MyjetVrainRelay\LightHouseServer2\obj\Debug\net7.0\LightHouseServer2.AssemblyInfo.cs
+G:\MyjetVrainRelay\LightHouseServer2\obj\Debug\net7.0\LightHouseServer2.csproj.CoreCompileInputs.cache
+G:\MyjetVrainRelay\LightHouseServer2\obj\Debug\net7.0\LightHouseServer2.dll
+G:\MyjetVrainRelay\LightHouseServer2\obj\Debug\net7.0\refint\LightHouseServer2.dll
+G:\MyjetVrainRelay\LightHouseServer2\obj\Debug\net7.0\LightHouseServer2.pdb
+G:\MyjetVrainRelay\LightHouseServer2\obj\Debug\net7.0\LightHouseServer2.genruntimeconfig.cache
+G:\MyjetVrainRelay\LightHouseServer2\obj\Debug\net7.0\ref\LightHouseServer2.dll
